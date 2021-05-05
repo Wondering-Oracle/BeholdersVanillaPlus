@@ -1,9 +1,5 @@
-# Fabric Example Mod
+# Beholder's Vanilla Plus
 
-## Setup
+## About
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+Adds Walls, Pressure Plates, and Buttons to Vanilla Blocks, to match Beholder's Variations. Not Dependent on Beholder's Variations, uses vanilla textures only.

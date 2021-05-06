@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sandstone"
+    }
+  },
+  "result": {
+    "item": "beholdersvanillaplus:sandstone_pressure_plate"
+  }
+}

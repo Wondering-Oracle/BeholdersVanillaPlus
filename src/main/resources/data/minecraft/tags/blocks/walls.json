@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "beholdersvanillaplus:quartz_wall",
+    "beholdersvanillaplus:chiseled_quartz_wall",
+    "beholdersvanillaplus:quartz_brick_wall",
+    "beholdersvanillaplus:smooth_quartz_wall",
+    "beholdersvanillaplus:cut_sandstone_wall",
+    "beholdersvanillaplus:smooth_sandstone_wall",
+    "beholdersvanillaplus:cut_red_sandstone_wall",
+    "beholdersvanillaplus:smooth_red_sandstone_wall",
+    "beholdersvanillaplus:prismarine_brick_wall",
+    "beholdersvanillaplus:dark_prismarine_wall"
+  ]
+}

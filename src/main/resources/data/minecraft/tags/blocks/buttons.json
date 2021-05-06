@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "beholdersvanillaplus:quartz_button",
+    "beholdersvanillaplus:chiseled_quartz_button",
+    "beholdersvanillaplus:sandstone_button",
+    "beholdersvanillaplus:red_sandstone_button"
+  ]
+}

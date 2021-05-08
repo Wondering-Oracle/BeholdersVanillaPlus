@@ -6,11 +6,11 @@
   ],
   "key": {
     "#": {
-      "item": "minecraft:smooth_sandstone"
+      "item": "minecraft:quartz_bricks"
     }
   },
   "result": {
-    "item": "beholdersvanillaplus:smooth_sandstone_wall",
+    "item": "beholdersvanillaplus:quartz_brick_wall",
     "count": 6
   }
 }
